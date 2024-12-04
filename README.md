@@ -8,7 +8,7 @@ Inspired by the need to bring change and transformative solutions to the world, 
 
 This project implements a **Generative Adversarial Network (GAN)** to generate synthetic stroke-related medical images. The GAN model is trained on stroke images, and the generator creates new, synthetic images that resemble the original dataset. This synthetic data can be used to augment existing datasets, improve model performance, or aid in medical research where annotated stroke data is scarce.
 
-![Stroke GAN](./images/gan_synthetic_images.png)
+![Stroke GAN](.GAN-Medical-Imaging/blob/main/generated_2000.png)
 
 ## Project Components
 
